@@ -3,17 +3,3 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* Utility classes */
-.ml-auto{
-margin-left: auto;
-}
-
-/* end of utility class */
-
-.col-2 .email{
-    text-decoration: none;
-}
-.col-2 .icons{
-    display: inline-block;
-    margin-left: 10px;
-}
